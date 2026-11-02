@@ -1,0 +1,441 @@
+{
+  "experiments": [
+    {
+      "id": "Base",
+      "setting": "size 50, window 5, min_count 2, skip-gram, 100 sentences",
+      "vocab": 119,
+      "seconds": 0.52,
+      "rel": 0.876,
+      "unrel": 0.581,
+      "gap": 0.295,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "record",
+          0.97
+        ],
+        [
+          "class",
+          0.96
+        ],
+        [
+          "results",
+          0.96
+        ]
+      ],
+      "computer": [
+        [
+          "network",
+          0.97
+        ],
+        [
+          "connects",
+          0.96
+        ],
+        [
+          "notes",
+          0.94
+        ]
+      ]
+    },
+    {
+      "id": "A1",
+      "setting": "vector size 25",
+      "vocab": 119,
+      "seconds": 0.46,
+      "rel": 0.848,
+      "unrel": 0.482,
+      "gap": 0.367,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "write",
+          0.97
+        ],
+        [
+          "results",
+          0.95
+        ],
+        [
+          "class",
+          0.95
+        ]
+      ],
+      "computer": [
+        [
+          "connects",
+          0.96
+        ],
+        [
+          "network",
+          0.96
+        ],
+        [
+          "programmer",
+          0.91
+        ]
+      ]
+    },
+    {
+      "id": "A2",
+      "setting": "vector size 100",
+      "vocab": 119,
+      "seconds": 0.76,
+      "rel": 0.91,
+      "unrel": 0.711,
+      "gap": 0.199,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "class",
+          0.99
+        ],
+        [
+          "explains",
+          0.98
+        ],
+        [
+          "record",
+          0.98
+        ]
+      ],
+      "computer": [
+        [
+          "connects",
+          0.98
+        ],
+        [
+          "network",
+          0.97
+        ],
+        [
+          "notes",
+          0.96
+        ]
+      ]
+    },
+    {
+      "id": "B1",
+      "setting": "window 2",
+      "vocab": 119,
+      "seconds": 0.75,
+      "rel": 0.962,
+      "unrel": 0.904,
+      "gap": 0.058,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "exam",
+          0.98
+        ],
+        [
+          "results",
+          0.98
+        ],
+        [
+          "explains",
+          0.98
+        ]
+      ],
+      "computer": [
+        [
+          "day",
+          0.98
+        ],
+        [
+          "and",
+          0.98
+        ],
+        [
+          "network",
+          0.97
+        ]
+      ]
+    },
+    {
+      "id": "B2",
+      "setting": "window 5 (= base)",
+      "vocab": 119,
+      "seconds": 0.68,
+      "rel": 0.876,
+      "unrel": 0.581,
+      "gap": 0.295,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "record",
+          0.97
+        ],
+        [
+          "class",
+          0.96
+        ],
+        [
+          "results",
+          0.96
+        ]
+      ],
+      "computer": [
+        [
+          "network",
+          0.97
+        ],
+        [
+          "connects",
+          0.96
+        ],
+        [
+          "notes",
+          0.94
+        ]
+      ]
+    },
+    {
+      "id": "C1",
+      "setting": "min_count 1",
+      "vocab": 234,
+      "seconds": 1.02,
+      "rel": 0.809,
+      "unrel": 0.375,
+      "gap": 0.434,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "difficult",
+          0.93
+        ],
+        [
+          "exam",
+          0.93
+        ],
+        [
+          "mark",
+          0.93
+        ]
+      ],
+      "computer": [
+        [
+          "connects",
+          0.92
+        ],
+        [
+          "network",
+          0.89
+        ],
+        [
+          "function",
+          0.89
+        ]
+      ]
+    },
+    {
+      "id": "C2",
+      "setting": "min_count 2 (= base)",
+      "vocab": 119,
+      "seconds": 0.73,
+      "rel": 0.876,
+      "unrel": 0.581,
+      "gap": 0.295,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "record",
+          0.97
+        ],
+        [
+          "class",
+          0.96
+        ],
+        [
+          "results",
+          0.96
+        ]
+      ],
+      "computer": [
+        [
+          "network",
+          0.97
+        ],
+        [
+          "connects",
+          0.96
+        ],
+        [
+          "notes",
+          0.94
+        ]
+      ]
+    },
+    {
+      "id": "D1",
+      "setting": "CBOW (sg=0)",
+      "vocab": 119,
+      "seconds": 0.7,
+      "rel": 0.99,
+      "unrel": 0.98,
+      "gap": 0.01,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "exam",
+          1.0
+        ],
+        [
+          "results",
+          1.0
+        ],
+        [
+          "before",
+          0.99
+        ]
+      ],
+      "computer": [
+        [
+          "network",
+          1.0
+        ],
+        [
+          "and",
+          0.99
+        ],
+        [
+          "every",
+          0.99
+        ]
+      ]
+    },
+    {
+      "id": "D2",
+      "setting": "Skip-gram (sg=1, = base)",
+      "vocab": 119,
+      "seconds": 0.67,
+      "rel": 0.876,
+      "unrel": 0.581,
+      "gap": 0.295,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "record",
+          0.97
+        ],
+        [
+          "class",
+          0.96
+        ],
+        [
+          "results",
+          0.96
+        ]
+      ],
+      "computer": [
+        [
+          "network",
+          0.97
+        ],
+        [
+          "connects",
+          0.96
+        ],
+        [
+          "notes",
+          0.94
+        ]
+      ]
+    },
+    {
+      "id": "E1",
+      "setting": "small corpus: first 30 sentences, min_count 1",
+      "vocab": 106,
+      "seconds": 0.56,
+      "rel": 0.992,
+      "unrel": 0.993,
+      "gap": -0.001,
+      "pairs": "6/1",
+      "teacher": [
+        [
+          "helps",
+          1.0
+        ],
+        [
+          "the",
+          0.99
+        ],
+        [
+          "it",
+          0.99
+        ]
+      ],
+      "computer": [
+        [
+          "programming",
+          0.99
+        ],
+        [
+          "degree",
+          0.99
+        ],
+        [
+          "lecturer",
+          0.99
+        ]
+      ]
+    },
+    {
+      "id": "E2",
+      "setting": "full corpus: 100 sentences, min_count 1",
+      "vocab": 234,
+      "seconds": 0.69,
+      "rel": 0.809,
+      "unrel": 0.375,
+      "gap": 0.434,
+      "pairs": "10/9",
+      "teacher": [
+        [
+          "difficult",
+          0.93
+        ],
+        [
+          "exam",
+          0.93
+        ],
+        [
+          "mark",
+          0.93
+        ]
+      ],
+      "computer": [
+        [
+          "connects",
+          0.92
+        ],
+        [
+          "network",
+          0.89
+        ],
+        [
+          "function",
+          0.89
+        ]
+      ]
+    }
+  ],
+  "stability": {
+    "Skip-gram, 100 sentences": 0.495,
+    "CBOW, 100 sentences": 0.233,
+    "Skip-gram, 30 sentences (min_count 1)": 0.087
+  },
+  "classification": {
+    "Word2Vec skip-gram (avg vector)": [
+      0.759,
+      0.113
+    ],
+    "Word2Vec CBOW (avg vector)": [
+      0.537,
+      0.118
+    ],
+    "TF-IDF bag of words (baseline)": [
+      0.938,
+      0.057
+    ]
+  }
+}

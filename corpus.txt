@@ -1,0 +1,101 @@
+students attend lectures at the university every morning
+the teacher explains the lesson to the students in the classroom
+a lecturer marks the assignment and returns it to the student
+students read books in the library before the exam
+the teacher writes the question on the board for the class
+every student receives a certificate after the course
+the school provides books and desks for each classroom
+teachers prepare the lesson and set the exam for the students
+the lecturer gives the students an assignment about programming
+students revise the notes and study for the exam
+the university offers a degree course in computer science
+the head teacher welcomes the parents and the students to the school
+a good teacher helps the student understand the difficult lesson
+students ask questions and the lecturer answers in the lecture hall
+the class discusses the topic and the teacher guides the discussion
+parents pay school fees so the child can attend the school
+the student submits the assignment to the lecturer before the deadline
+the library has books on science and technology for students
+the teacher marks the exam and gives feedback to each student
+students learn mathematics and science at school
+the lecturer explains the algorithm and the students take notes
+a student who studies hard passes the exam
+the university library is open to every student and lecturer
+the teacher uses a laptop and a projector in the classroom
+students practise programming on the computer in the laboratory
+the lecturer teaches the course and supervises the student project
+the school organises a science fair for the students every year
+students work in groups to complete the project for the course
+the classroom has a board and desks for the students
+teachers attend training to improve the lesson and the classroom
+programmers write code to build software for the computer
+the software runs on the server and stores data in the database
+a developer tests the program and fixes the bug in the code
+the network connects the computer to the internet
+engineers train the model on data to improve the algorithm
+the database stores the data and the server sends the data to the user
+the programmer writes a function and the computer runs the program
+machine learning uses data to train a model that makes predictions
+the developer builds the application and tests the software
+the internet connects every computer and server in the network
+a security engineer protects the network and the server from attacks
+the model learns patterns from the data during training
+the user opens the application on the phone and enters the data
+the engineer installs the software on the server and tests the network
+developers share code online and review the program together
+the algorithm sorts the data and the program prints the result
+neural networks learn from large data and improve the model
+the company builds software and sells the application to the user
+a programmer debugs the code and the program runs without errors
+the server stores the data and the network sends it to the computer
+the developer writes tests so the software has fewer bugs
+students learn programming and build software on the laptop
+the teacher shows the students how the computer runs the program
+the lecturer explains how the model learns from the data
+students use the internet to find books and notes for the assignment
+the university laboratory has computers and a fast network for students
+a student writes code for the project and tests the program
+the lecturer teaches machine learning and the students train a model
+the school installs computers and an internet connection for the classroom
+the teacher uses software to mark the exam and store the results
+students build an application as the project for the programming course
+the engineer explains the network to the students in the lecture
+the student reads the notes and writes the program on the computer
+the developer shares the code with the team and the team reviews the software
+the data scientist cleans the data and trains the model on the server
+the user sends data to the server and the application returns the result
+a company trains engineers and developers to build better software
+students and teachers use the internet and the computer every day
+the programming lecturer marks the code and gives feedback to the student
+the algorithm learns from the training data and the model improves
+the language model reads the text and learns the patterns in the language
+the translation program converts the text from one language to another
+a word embedding represents each word as a vector of numbers
+the model uses the context of the word to learn the vector
+students train a word model on text data in the laboratory
+the lecturer teaches natural language processing and the students write programs
+the program reads the text and splits it into words
+the vocabulary contains every word in the text data
+a large text corpus helps the model learn better vectors
+the teacher asks the student to read the text and write a summary
+the library keeps books and journals about language and technology
+students study language and technology at the university
+the engineer improves the translation model with more text data
+the school teaches students to use the computer and the internet
+a student writes a report about the computer network for the course
+the lecturer reviews the assignment and the student improves the report
+the developer reads the documentation before writing the code
+engineers test the server under heavy load to improve the application
+the teacher and the students discuss how software helps the school
+the project team builds the database and the application for the university
+a cloud server stores the data and the user opens the application on the phone
+the university network gives students access to the internet in the library
+data from the exam helps the teacher improve the lesson
+the student learns to write code and builds a small application
+researchers train the model on more data and compare the results
+the lecturer explains the results of the experiment to the class
+students record the results and write the report for the lecturer
+the laboratory computer runs the program and prints the results
+a team of students builds software for the school library
+the lecturer encourages students to practise programming every day
+the application helps teachers mark the exam and record the results
